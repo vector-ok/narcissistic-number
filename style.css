@@ -1,0 +1,58 @@
+body {
+  margin-left: 20px;
+}
+
+button {
+  width: 125px;
+  height: 40px;
+  display: block;
+  margin-top: 10px;
+  background-color: gray;
+  color: #fff;
+  font-size: 16px;
+}
+
+.blink{
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+h1 {
+  font-size: 40px;
+  color: gray;
+  margin-bottom: 0;
+}
+
+h3 {
+  text-align: center;
+  text
+}
+
+#author{
+  font-size: 12px;
+  margin: 0;
+}
+
+input {
+  width: 120px;
+}
+
+#inputValue{
+  padding-left: 3%;
+  font-size: 30px;
+}
+
+#isValid{
+  font-size: 40px;
+  color: cornflowerblue;
+}
+
+#notValid{
+  font-size: 30px;
+  color: maroon;
+}
