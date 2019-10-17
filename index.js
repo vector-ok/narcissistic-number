@@ -1,6 +1,3 @@
-//Author: Victor Okpon
-//email: vikzy2rhyme@yahoo.com
-//phone:  0706 340 3892
 
 // window.addEventListener('DOMContentLoaded', () => {}
 
